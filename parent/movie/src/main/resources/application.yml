@@ -1,7 +1,5 @@
 server:
   port: 7908
-user:
-  http://localhost:8080/
 spring:
   application:
     name: movie    # 项目名称尽量用小写
